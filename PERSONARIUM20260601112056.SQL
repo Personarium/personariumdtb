@@ -10,7 +10,6 @@ insert into tb_tipo_pessoa (descricao, sigla) values ('Pessoa Física', 'PF');
 insert into tb_tipo_pessoa (descricao, sigla) values ('Pessoa Jurídica', 'PJ');
 
 insert into tb_tipo_documento (nome, sigla) values ('Cadastro de Pessoa Física', 'CPF');
-insert into tb_tipo_documento (nome, sigla) values ('Cadastro de Pessoa Física', 'CPF');
 insert into tb_tipo_documento (nome, sigla) values ('Registro Geral', 'RG');
 insert into tb_tipo_documento (nome, sigla) values ('Carteira Nacional de Habilitação', 'CNH');
 insert into tb_tipo_documento (nome, sigla) values ('Título de Eleitor', 'TE');
